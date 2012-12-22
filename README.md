@@ -1,4 +1,4 @@
 library
 =======
 
-The repository with texts I publishe
+The repository with texts I publish
